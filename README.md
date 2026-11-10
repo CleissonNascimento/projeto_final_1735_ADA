@@ -158,6 +158,6 @@ jupyter notebook projeto_final.ipynb
 
 | Nome | GitHub | Principais contribuições |
 |---|---|---|
-| Cleisson Nascimento | https://github.com/CleissonNascimento/projeto_final_1735_ADA/tree/main/saidas | Análise completa, limpeza, hipóteses, visualizações e README |
+| Cleisson Nascimento | https://github.com/CleissonNascimento | Análise completa, limpeza, hipóteses, visualizações e README |
 
 *Projeto final do módulo DS-PY-018 · Análise Exploratória de Dados · turma 1735 11/2026*
